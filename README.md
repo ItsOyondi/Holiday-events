@@ -1,0 +1,2 @@
+# Holiday-events
+This simple project was used to examine the distribution of events per locale - local, regional or national in holidays across various countries. The project employs machine learning (LR) to predict whether the holiday events were transferred or not. The findings indicated that majority of the events were not transferred and regardless of the locale, there were 7% chances of an event being transferred. 
